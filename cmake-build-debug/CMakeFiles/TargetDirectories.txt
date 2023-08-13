@@ -1,0 +1,3 @@
+/home/unbreakaskull/CLionProjects/TermalIO/cmake-build-debug/CMakeFiles/TermalIO.dir
+/home/unbreakaskull/CLionProjects/TermalIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/unbreakaskull/CLionProjects/TermalIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
